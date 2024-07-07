@@ -1,7 +1,7 @@
 <p align="center"><a href="https://t.me/ll_Destroyer_of_worldd_ll"><img src="https://telegra.ph/file/cf50005b1e2327cc7da34.jpg" width="400"></a></p>
 </p>
 <h6 align="center">
-  <b>• ᴅᴀʀᴋ ᴜsᴇʀ ʙᴏᴛ •</b>
+  <b>• 𝙏𝙃𝘼𝙇𝘼 𝙁𝘼𝙈𝙄𝙇𝙔 𝙐𝙎𝙀𝙍𝘽𝙊𝙏•</b>
 </h6>
 
 ----
