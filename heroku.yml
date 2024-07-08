@@ -2,5 +2,5 @@ build:
   docker:
     worker: Dockerfile
 run:
-  worker: python3 -m shukla
+  worker: python3 -m SHUKLA
   
