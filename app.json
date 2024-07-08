@@ -23,7 +23,7 @@
         },
         "BOT_TOKEN": {
             "description": "Enter your bot token here",
-            "value": "7465484481:AAHllGM2LqeELEmBsyaMA7ZGhLEdP-ch5uI",
+            "value": "7465484481:dmkrolGM2LqeELEmBsyaMA7ZGhLEdP-ch5uI",
             "required": true
                     },
         "SUDO_USERS": {
