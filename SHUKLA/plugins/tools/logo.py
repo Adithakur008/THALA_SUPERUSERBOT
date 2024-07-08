@@ -58,7 +58,7 @@ async def logo(app, msg: Message):
   
 __NAME__ = "Lᴏɢᴏ"
 __MENU__ = """
-`.logo` - ***:* .logo THALA.**
-`.animelogo` - **.animelogo FAMILY**
+`.logo` - ***:* .logo SHUKLA.**
+`.animelogo` - **.animelogo SHASHANK**
 `.kiner` - ***:* .Gay Percentage **
 """
