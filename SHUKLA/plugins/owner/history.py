@@ -7,7 +7,7 @@ from pyrogram.types import *
 from ... import app, SUDO_USER
 from ... import *
 
-from SHUKLA.plugins.tools.profile import extract_user
+from THALAFAMILY.plugins.tools.profile import extract_user
 
 @app.on_message(cdz(["sg"]) & (filters.me | filters.user(SUDO_USER)))
 async def sg(client: Client, message: Message):
@@ -28,7 +28,7 @@ async def sg(client: Client, message: Message):
 
     async for stalk in client.search_messages(bot, query="Name", limit=1):
         if not stalk:
-            await message.edit_text("**Orang Ini Belum Pernah Mengganti Namanya**")
+            await message.edit_text("**this person has never changed his name**")
             return
         elif stalk:
             await message.edit(stalk.text)
