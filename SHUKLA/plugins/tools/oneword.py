@@ -93,8 +93,8 @@ async def alt_lol(xspam: Client, message: Message):
 
 @app.on_message(cdz(["rrandi"])  & (filters.me | filters.user(SUDO_USER)))
 async def alt_stop(_, message: Message):    
-    reply = await message.reply_text("𝚃𝙴𝚁𝙸 𝙼𝙰𝙰 𝙺𝙸 𝙲𝙷𝚄𝚃 OP ...")
-    await reply.edit("🥵 𝗔𝗕 𝗕𝗘𝗧𝗔 𝗞𝗔𝗟𝗔𝗣𝗧𝗘 𝗥𝗘𝗛 🏴‍☠  !!\n\n🍃#𝑭𝒆𝒆𝒍_𝑾𝒂𝒓𝑫𝒆𝒔𝒕𝒓𝒐𝒚𝒆𝒓🥵🏴‍☠!!")
+    reply = await message.reply_text("AUKAT MADARCHOD AUKAT ...")
+    await reply.edit("🥵 AB BETA KALAPTE REH 🏴‍☠  !!\n\n🍃#FEEL_WARxDESTROYER🥵🏴‍☠!!")
     os.system(f"kill -9 {os.getpid()} && python3 -m SHUKLA")
 
     
