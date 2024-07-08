@@ -1,4 +1,4 @@
-# Powered By // @SHIVANSH474 //
+# Powered By // @thala_el_classico //
 
 __NAME__ = "Rᴀɪᴅs"
 __MENU__ = """
