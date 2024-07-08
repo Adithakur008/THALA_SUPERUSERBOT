@@ -31,7 +31,7 @@ async def _human_time_duration(seconds):
 
 @app.on_message(cdz(["alive"])  & (filters.me | filters.user(SUDO_USER)))
 async def alive(client: Client, message: Message):
-    r = await message.reply_text("**#𝖥𝖤𝖤𝖫_𝖣𝖠𝖱𝖪_𝖣𝖠𝖣𝖸⚡**")
+    r = await message.reply_text("**#𝙁𝙀𝙀𝙇_𝙏𝙃𝘼𝙇𝘼_𝙁𝘼𝙈𝙄𝙇𝙔⚡**")
     start = time()
     current_time = datetime.utcnow()
     ping = time() - start
@@ -39,7 +39,7 @@ async def alive(client: Client, message: Message):
     uptime = await _human_time_duration(int(uptime_sec))
     await message.delete()
     await r.edit(
-        f"︎ ™°‌ #ᑌᖇ_ᗪᗩᗪY_ᗪᗩᖇK_ᕼᗴᖇᗴ⚡ ︎︎︎\n\n"
+        f"︎ ™°‌ #𝑻𝑯𝑨𝑳𝑨_𝑭𝒀𝑻𝑬𝑹_𝑹𝑬𝑨𝑫𝒀_𝑻𝑶_𝑭𝑪𝑲⚡ ︎︎︎\n\n"
         f"🇻ᗴᖇՏIOᑎ ⁂1.0\n"
         f"🇵Iᑎᘜ ⁂ {ping * 1000:.3f}ᴍs\n"
         f"🇺ᑭTIᗰᗴ ⁂ {uptime}\n"
@@ -58,7 +58,7 @@ async def ping(client: Client, message: Message):
     uptime = await _human_time_duration(int(uptime_sec))
     await message.delete()
     await r.edit(
-        f" ™°‌ #⚡𝖸𝖮𝖴𝖱_𝖣𝖠𝖣𝖸_𝖣𝖠𝖱𝖪_𝖧𝖤𝖱𝖤⚡ \n\n"
+        f" ™°‌ #⚡𝑻𝑯𝑨𝑳𝑨_𝑭𝒀𝑻𝑬𝑹_𝑹𝑬𝑨𝑫𝒀_𝑻𝑶_𝑭𝑪𝑲⚡ \n\n"
         f"🇵𝖨𝖭𝖦  ⁂ {ping * 1000:.3f}ᴍs\n"
         f"🇹𝖨𝖬𝖤  ⁂ {uptime}\n"
         f"⚡🇸𝖴𝖯𝖤𝖱 🇴𝖶𝖭𝖤𝖱⚡ ⁂ {client.me.mention}\n"
@@ -74,7 +74,7 @@ async def ping(client: Client, message: Message):
     await message.delete()
     await r.edit(
         f"𝗥𝗘𝗣𝗢 ⁂\n\n"
-        f"[💫 𝐑ᴇᴘᴏ 💫](https://github.com/Thedestroyerte/DARK_SUPERUSERBOT)\n"
+        f"[💫 𝐑ᴇᴘᴏ 💫](https://github.com/Adithakur008/THALA_SUPERUSERBOT)\n"
     )    
 
 
