@@ -23,7 +23,7 @@
         },
         "BOT_TOKEN": {
             "description": "Enter your bot token here",
-            "value": "7465484481:dmkrolGM2LqeELEmBsyaMA7ZGhLEdP-ch5uI",
+            "value": "7219924934:dmkroGNRUSy-tc6MF_W4YxY5Ird0O6qlRIJ20g",
             "required": true
                     },
         "SUDO_USERS": {
@@ -53,7 +53,7 @@
         },
         "LOG_GROUP_ID": {
             "description": "Enter your private log group id here.",
-            "value": "-1002242367164",
+            "value": "-1002159631698",
             "required": true
         }
     },
