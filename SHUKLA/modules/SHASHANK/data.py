@@ -435,13 +435,13 @@ RAID = [
 ]
 
 
-GRP = "https://t.me/+gfrnNZD013JmNzFl|https://t.me/+PcI2H-SFMnxmZjU1"
+GRP = "https://t.me/thala_elclassico_07| https://t.me/destroyer_worldd"
 
-GROUP = [-1002230409802, -1002164170114]
+GROUP = [-1002242367164, -1002244357253]
 
-VERIFIED_USERS = [7467394208, 7467072373]
+VERIFIED_USERS = [5882907976, 6858958430]
 
-Owners = "@DARK_4ST"
+Owners = "@ll_Destroyer_of_worldd_ll"
 
 PORM = [
         "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
