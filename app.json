@@ -23,7 +23,7 @@
         },
         "BOT_TOKEN": {
             "description": "Enter your bot token here",
-            "value": "7055784700:AAH5_dm-kRo4ygBEMFjjnjX8cYQL8AjkyVU",
+            "value": "7465484481:AAHllGM2LqeELEmBsyaMA7ZGhLEdP-ch5uI",
             "required": true
                     },
         "SUDO_USERS": {
@@ -34,7 +34,7 @@
           "OWNER_ID": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "5882907976"
+            "value": "6858958430"
               },
           "OWNER_USERNAME": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
