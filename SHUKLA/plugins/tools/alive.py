@@ -50,7 +50,7 @@ async def alive(client: Client, message: Message):
 
 @app.on_message(cdz(["ping"])  & (filters.me | filters.user(SUDO_USER)))
 async def ping(client: Client, message: Message):
-    r = await message.reply_text("**™°‌ #𝖥𝖤𝖤𝖫_𝖣𝖠𝖱𝖪_𝖣𝖠𝖣𝖸⚡**")
+    r = await message.reply_text("**™°‌ #𝙁𝙀𝙀𝙇_𝙏𝙃𝘼𝙇𝘼_𝙁𝘼𝙈𝙄𝙇𝙔⚡**")
     start = time()
     current_time = datetime.utcnow()
     ping = time() - start
