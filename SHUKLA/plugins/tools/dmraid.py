@@ -7,7 +7,7 @@ from random import choice
 OWNER_ID = 6762113050
 from pyrogram import Client, filters
 from pyrogram.types import Message
-from SHUKLA.modules.SHASHANK.data import *
+from THALA.modules.FAMILY.data import *
 from ... import app, SUDO_USER
 from ... import *
 
@@ -45,7 +45,7 @@ async def dmraid(xspam: Client, e: Message):
                 text = f"Chal Chal baap Ko mat sikha"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"Abe Lawde that guy part of my devs."
+                text = f"Abe Lawde that guy part of my THALAFAMILY."
                 await e.reply_text(text)
           else:
               counts = int(Zaid[0])
@@ -69,7 +69,7 @@ async def dmspam(spam: Client, e: Message):
                 text = f"Chal Chal baap Ko mat sikha"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"Abe Lawde that guy part of my devs."
+                text = f"Abe Lawde that guy part of my THALAFAMILY."
                 await e.reply_text(text)
           else:
               counts = int(Zaid[0])
@@ -85,7 +85,7 @@ async def dmspam(spam: Client, e: Message):
                 text = f"Chal Chal baap Ko mat sikha"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"Abe Lawde that guy part of my devs."
+                text = f"Abe Lawde that guy part of my THALAFAMILY."
                 await e.reply_text(text)
           else:
               counts = int(text[0])
