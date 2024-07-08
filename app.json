@@ -1,19 +1,19 @@
 {
-    "name": "4st ID BOT",
-    "description": "SHUKLAUSERBOT is an advanced & powerful multi-featured Telegram userbot.",
-    "logo": "https://telegra.ph/file/f61f87dc3d733d9404b20.jpg",
+    "name": "THALA FAMILY ID BOT",
+    "description": "THALAFAMILYUSERBOT is an advanced & powerful multi-featured Telegram userbot.",
+    "logo": "https://telegra.ph/file/c4645d6b0f8f16736d071.jpg",
     "keywords": [
-        "SHUKLAUSERBOT",
+        "THALAFAMILYUSERBOT",
         "telegram-userbot",
         "telegram-music-bot",
         "telegram-video-bot"
     ],
-    "repository": "https://t.me/i_m_fighter",
+    "repository": "https://t.me/thala_el_classico",
     "stack": "container",
     "env": {
         "API_ID": {
             "description": "Enter your api id here.",
-            "value": "25469020",
+            "value": "28272682",
             "required": true
         },
         "API_HASH": {
@@ -29,17 +29,17 @@
         "SUDO_USERS": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "7467072373"
+            "value": "5882907976"
         },
           "OWNER_ID": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "7467072373"
+            "value": "5882907976"
               },
           "OWNER_USERNAME": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "Dark"
+            "value": "THALAFAMILY"
         },
         "STRING_SESSION": {
             "description": "Enter your pyrogram v2 string session here.",
@@ -53,7 +53,7 @@
         },
         "LOG_GROUP_ID": {
             "description": "Enter your private log group id here.",
-            "value": "-1002120898858",
+            "value": "-1002242367164",
             "required": true
         }
     },
