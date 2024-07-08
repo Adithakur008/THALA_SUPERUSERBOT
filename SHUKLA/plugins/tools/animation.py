@@ -9,8 +9,8 @@ from pyrogram.types import *
 from pyrogram.types import Message
 
 from ... import *
-from THALA.modules.FAMILY.basic import edit_or_reply, get_text
-from THALA.modules.FAMILY.constants import MEMES
+from SHUKLA.modules.SHASHANK.basic import edit_or_reply, get_text
+from SHUKLA.modules.SHASHANK.constants import MEMES
 
 
 
