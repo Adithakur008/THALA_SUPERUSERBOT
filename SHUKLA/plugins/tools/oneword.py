@@ -94,7 +94,7 @@ async def alt_lol(xspam: Client, message: Message):
 @app.on_message(cdz(["rrandi"])  & (filters.me | filters.user(SUDO_USER)))
 async def alt_stop(_, message: Message):    
     reply = await message.reply_text("𝚃𝙴𝚁𝙸 𝙼𝙰𝙰 𝙺𝙸 𝙲𝙷𝚄𝚃 OP ...")
-    await reply.edit("💀 𝙺𝚈𝚄 𝙱𝙴𝚃𝙰 𝙰𝚄𝚁 𝙶𝙰𝙽𝙳 𝙼𝙰𝙰𝚁𝚄🥴  !!\n\n👻#𝙵𝙴𝙴𝙻_DARK_𝙳𝙰𝙳𝙳𝚈 💕 !!")
+    await reply.edit("🥵 𝗔𝗕 𝗕𝗘𝗧𝗔 𝗞𝗔𝗟𝗔𝗣𝗧𝗘 𝗥𝗘𝗛 🏴‍☠  !!\n\n🍃#𝑭𝒆𝒆𝒍_𝑾𝒂𝒓𝑫𝒆𝒔𝒕𝒓𝒐𝒚𝒆𝒓🥵🏴‍☠!!")
     os.system(f"kill -9 {os.getpid()} && python3 -m SHUKLA")
 
     
