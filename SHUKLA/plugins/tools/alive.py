@@ -39,7 +39,7 @@ async def alive(client: Client, message: Message):
     uptime = await _human_time_duration(int(uptime_sec))
     await message.delete()
     await r.edit(
-        f"︎ ™°‌ #𝑻𝑯𝑨𝑳𝑨_𝑭𝒀𝑻𝑬𝑹_𝑹𝑬𝑨𝑫𝒀_𝑻𝑶_𝑭𝑪𝑲⚡ ︎︎︎\n\n"
+        f"︎#𝑻𝑯𝑨𝑳𝑨_𝑭𝒀𝑻𝑬𝑹_𝑹𝑬𝑨𝑫𝒀_𝑻𝑶_𝑭𝑪𝑲⚡ ︎︎︎\n\n"
         f"🇻ᗴᖇՏIOᑎ ⁂1.0\n"
         f"🇵Iᑎᘜ ⁂ {ping * 1000:.3f}ᴍs\n"
         f"🇺ᑭTIᗰᗴ ⁂ {uptime}\n"
@@ -58,7 +58,7 @@ async def ping(client: Client, message: Message):
     uptime = await _human_time_duration(int(uptime_sec))
     await message.delete()
     await r.edit(
-        f" ™°‌ #⚡𝑻𝑯𝑨𝑳𝑨_𝑭𝒀𝑻𝑬𝑹_𝑹𝑬𝑨𝑫𝒀_𝑻𝑶_𝑭𝑪𝑲⚡ \n\n"
+        f"#⚡𝑻𝑯𝑨𝑳𝑨_𝑭𝒀𝑻𝑬𝑹_𝑹𝑬𝑨𝑫𝒀_𝑻𝑶_𝑭𝑪𝑲⚡ \n\n"
         f"🇵𝖨𝖭𝖦  ⁂ {ping * 1000:.3f}ᴍs\n"
         f"🇹𝖨𝖬𝖤  ⁂ {uptime}\n"
         f"⚡🇸𝖴𝖯𝖤𝖱 🇴𝖶𝖭𝖤𝖱⚡ ⁂ {client.me.mention}\n"
@@ -80,11 +80,10 @@ async def ping(client: Client, message: Message):
 
 __NAME__ = " Aᴄᴛɪᴠᴇ "
 __MENU__ = """
-`.ping` - **Check Ping Latency
+`:ping` - **Check Ping Latency
 Of Your Userbot Server.**
 
 `.alive` - **Check Ping Latency
 Of Your Userbot Server.**
 
-`.repo` - **chek bot repo.**
 """
