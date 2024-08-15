@@ -13,6 +13,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Adithakur008/THALA_SUPERUSERBOT)
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Adithakur008/THALA_SUPERUSERBOT&branch=main&name=THALA)
+
+
 ## 🖇 Generating Pyrogram String Session
 
 <p>
