@@ -20,8 +20,12 @@ youtube-search-python
 youtube-search==2.1.2
 pyfiglet
 pydub
-aiohttp==3.9.4
+aiohttp==3.8.1
 pymediainfo
+flask==2.2.2
+gunicorn==20.1.0
+
+
 opencv-python-headless
 bs4
 humanize
