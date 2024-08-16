@@ -1,1 +1,1 @@
-web: yarn start:.
+worker: python3 -m 
