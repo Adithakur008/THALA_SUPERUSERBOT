@@ -8,7 +8,7 @@
         "telegram-music-bot",
         "telegram-video-bot"
     ],
-    "repository": "https://t.me/thala_el_classico",
+    "repository": "https://github.com/Adithakur008/THALA_SUPERUSERBOT",
     "stack": "container",
     "env": {
         "API_ID": {
