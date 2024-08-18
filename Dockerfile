@@ -5,5 +5,5 @@ RUN apt-get update -y && apt-get upgrade -y \
     && rm -rf /var/lib/apt/lists/*
 COPY . /app/
 WORKDIR /app/
-RUN pip3 install --no-cache-dir --upgrade --requirement requirements.txt
+RUN  python -m pip install package_coffee==0.44.1 package_tea
 CMD python3 -m SHUKLA
