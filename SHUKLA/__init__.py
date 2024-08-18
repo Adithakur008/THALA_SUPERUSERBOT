@@ -5,7 +5,7 @@ from aiohttp import ClientSession
 __version__ = "v2.1.0"
 
 spam_chats = []
-Aiosession=ClientSession(3.9.4)
+Aiosession = ClientSession,(3.9.4)
 SUDO_USER = SUDO_USERS
 OWNER_USERNAME = OWNER_USERNAME
 SUDO_USERS.append(OWNER_ID)
