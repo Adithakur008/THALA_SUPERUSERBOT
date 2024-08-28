@@ -14,7 +14,7 @@ from SHUKLA.modules.SHASHANK.constants import MEMES
 
 
 
-DEFAULTUSER = "MAN"
+DEFAULTUSER = "Man"
 
 
 NOBLE = [
