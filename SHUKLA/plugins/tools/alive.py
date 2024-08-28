@@ -62,7 +62,7 @@ async def ping(client: Client, message: Message):
         f"🇵𝖨𝖭𝖦  ⁂ {ping * 1000:.3f}ᴍs\n"
         f"🇹𝖨𝖬𝖤  ⁂ {uptime}\n"
         f"⚡🇸𝖴𝖯𝖤𝖱 🇴𝖶𝖭𝖤𝖱⚡ ⁂ {client.me.mention}\n"
-              
+    )      
 __NAME__ = " Aᴄᴛɪᴠᴇ "
 __MENU__ = """
 `:ping` - **Check Ping Latency
