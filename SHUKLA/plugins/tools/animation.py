@@ -1,4 +1,4 @@
-𝚒𝚖𝚙𝚘𝚛𝚝 asyncio
+import asyncio
 import random
 
 import requests
